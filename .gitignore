@@ -1,0 +1,16 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Logs
+logs/
+
+# Dataset files (optional)
+datasets/
+
+# IDE
+.vscode/
+.idea/
